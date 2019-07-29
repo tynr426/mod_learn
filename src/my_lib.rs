@@ -1,1 +1,1 @@
-mod my_lib::act_mod;
+pub mod act_mod;
